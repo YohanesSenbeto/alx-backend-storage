@@ -1,0 +1,2 @@
+//Run MongoDB cmd to list databases
+show dbs
